@@ -69,3 +69,5 @@ With this change, it will be stored as follows:
 ```
 
 As you can see, the keys that were not changed (i.e. in this case, age) will not appear in the object changes at all, thus increasing storage efficiency.
+
+It can work with [[https://github.com/DmitryTsepelev/store_model]]
